@@ -1,6 +1,6 @@
 {
-  "name": "cancellable-promise",
-  "version": "1.0.0",
+  "name": "stop-promise",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "dependencies": {},
@@ -9,9 +9,7 @@
     "@types/node": "^13.11.0",
     "jest": "^25.2.7",
     "ts-jest": "^25.3.1",
-    "ts-node": "^8.8.2",
-    "tsc": "^1.20150623.0",
-    "typescript": "^3.8.3"
+    "tsc": "^1.20150623.0"
   },
   "scripts": {
     "build": "tsc",
